@@ -1,0 +1,31 @@
+URL: allitebooks.org
+
+CATEGORIAS
+
+	#primary.content-area
+		#side-content
+			ul#menu-categories
+				li
+					a (PEGAR O TEXTO E O LINK)
+
+SHORT LIVRO
+	main#main-content
+		div
+			article 
+				div.entry-thumbnail
+					a
+						img (IMAGEM DO LIVRO)
+
+				div.entry-body
+					header.entry-header
+						.entry-title (TEXTO DO TÍTULO)
+							a (LINK)
+
+				div.entry-meta
+					.entry-author
+
+				div.entry-summary
+					p (RESUMO)
+
+
+NOTA: Página da categoria e do autor seguem a mesma lógica para a listagem dos livros
